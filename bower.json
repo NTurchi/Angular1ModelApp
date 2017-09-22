@@ -1,6 +1,6 @@
 {
-  "name": "stepper-integration",
-  "version": "0.0.1",
+  "name": "angular-app-model",
+  "version": "1.0.0",
   "dependencies": {
     "angular": "~1.5.8",
     "angular-material": "latest",

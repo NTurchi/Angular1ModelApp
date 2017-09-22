@@ -1,7 +1,11 @@
 {
-    "name": "stepper-integration",
-    "description": "Projet de test d'intégration d'un stepper",
+    "name": "angular-app-model",
+    "author": "Nicolas TURCHI <nicolas.turchi.dev@gmail.com>",
+    "description": "Modèle d'application Angular 1 / Node js",
     "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
     "dependencies": {
         "express": "^4.15.4"
     },
