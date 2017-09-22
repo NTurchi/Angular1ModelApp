@@ -1,0 +1,11 @@
+{
+  "name": "stepper-integration",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-material": "latest",
+    "md-steppers": "latest",
+    "angular-route": "^1.6.6"
+  },
+  "private": true
+}

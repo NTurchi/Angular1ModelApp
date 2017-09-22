@@ -1,0 +1,5 @@
+{
+    "directory": "./lib",
+    "timeout": 120000,
+    "proxy": "http://10.37.102.218:3128"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "stepper-integration",
+    "description": "Projet de test d'intégration d'un stepper",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.15.4"
+    },
+    "main": "./js/back/server.js"
+}
